@@ -1,2 +1,3 @@
-2023/05/10-09:52:51.512 4590 Creating DB C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/05/10-09:52:51.517 4590 Reusing MANIFEST C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/10-14:50:25.341 2614 Reusing MANIFEST C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/10-14:50:25.342 2614 Recovering log #3
+2023/05/10-14:50:25.342 2614 Reusing old log C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Saved/webcache_4430\Local Storage\leveldb/000003.log 
