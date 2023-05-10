@@ -6,17 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
-				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
-				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
-				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
 				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
-				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouch/CrouchedBlendSpace1D.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/corbi/Desktop/GitHubRepos/FantasyRPG/FantasyRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
 			]
 		}
 	]
